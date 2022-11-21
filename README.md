@@ -10,7 +10,7 @@ Python3, TensorFlow, Pandas, plotly, dash, Jupyter Notebooks, Git, Arch and othe
 
 Examples of my projects: 
 
-[Apartments pricing in Warsaw](http://3.67.207.232/):
+[Apartments pricing in Warsaw](http://3.67.207.232:8080/):
 The website presents data on apartment prices in Warsaw. The data was extracted from the OLX portal using the web scraping method.
 Used tools:
 - MongoDB, dash, plotly, pandas, BeautifulSoup, AWS
